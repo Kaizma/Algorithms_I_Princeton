@@ -1,4 +1,5 @@
 package Week01;
+import edu.princeton.cs.algs4.*;
 
 public class HelloWorld {
 
